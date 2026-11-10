@@ -80,7 +80,7 @@ export default function App() {
     }
   }
   return (
-    <div className="min-h-screen bg-slate-100 text-slate-800">
+    <div className="min-h-screen bg-slate-800 text-slate-100">
       <header className="flex items-center justify-between bg-slate-950 px-6 py-4 text-white">
         <div className="flex items-center gap-3 text-xl font-bold">
           <Store className="text-blue-400" /> ShopEasy Admin
